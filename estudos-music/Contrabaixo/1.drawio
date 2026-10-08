@@ -1,0 +1,46 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="3blaqtMicsFN7s8kwEfM">
+    <mxGraphModel dx="774" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-8" edge="1" parent="1" source="_mjPsijJUSpKKQ6ZvvRs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_mjPsijJUSpKKQ6ZvvRs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="Cordas possuem calibres mais leves (0.40) e mais pesadas (0.45)." vertex="1">
+          <mxGeometry height="70" width="120" x="210" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="Depende do toque, da mão, da forma como gosta de tocar o instrumento." vertex="1">
+          <mxGeometry height="70" width="140" x="390" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-14" edge="1" parent="1" source="_mjPsijJUSpKKQ6ZvvRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_mjPsijJUSpKKQ6ZvvRs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-15" edge="1" parent="1" source="_mjPsijJUSpKKQ6ZvvRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_mjPsijJUSpKKQ6ZvvRs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-16" edge="1" parent="1" source="_mjPsijJUSpKKQ6ZvvRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_mjPsijJUSpKKQ6ZvvRs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-9" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Cada captador tem um timbre diferente." vertex="1">
+          <mxGeometry height="40" width="120" x="210" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="Os dois abertos, dá um som mais equilibrado." vertex="1">
+          <mxGeometry height="50" width="120" x="400" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="Só ponte, perde um pouco do grave a chama um médio-agudo, bom para harmônico, acordes, solos." vertex="1">
+          <mxGeometry height="100" width="120" x="400" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="Só braço, chama um trimbre mais médio-grave." vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="O controle de Tone dá uma cortada no agudo." vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="_mjPsijJUSpKKQ6ZvvRs-17" edge="1" parent="1" source="_mjPsijJUSpKKQ6ZvvRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_mjPsijJUSpKKQ6ZvvRs-13">
+          <mxGeometry relative="1" x="0.025" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
