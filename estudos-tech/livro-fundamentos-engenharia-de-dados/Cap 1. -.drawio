@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram name="Página-1" id="IYkpNDs0cHIbcrtGR4T5">
+        <mxGraphModel dx="835" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-5" edge="1" parent="1" source="ETdNqV8aS87p9ShmVBTq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ETdNqV8aS87p9ShmVBTq-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Engenharia de Dados&lt;/font&gt;&lt;/b&gt;" vertex="1">
+                    <mxGeometry height="50" width="120" x="90" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-8" edge="1" parent="1" source="ETdNqV8aS87p9ShmVBTq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ETdNqV8aS87p9ShmVBTq-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Desenvolvimento, implementação e manutenção de sistemas e processos que recebem dados brutos e produzem informações consistentes e de alta qualidade" vertex="1">
+                    <mxGeometry height="90" width="190" x="250" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-9" edge="1" parent="1" source="ETdNqV8aS87p9ShmVBTq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ETdNqV8aS87p9ShmVBTq-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Combinação de segurança, gerenciamento de dados, DataOps, arquitetura de dados, orquestração e engenharia de software." vertex="1">
+                    <mxGeometry height="90" width="190" x="480" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-12" edge="1" parent="1" source="ETdNqV8aS87p9ShmVBTq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ETdNqV8aS87p9ShmVBTq-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Engenheiro de Dados deve conhecer além das tecnologias, conhecer os dados e compreender as necessidades dos consumidores de dados" vertex="1">
+                    <mxGeometry height="90" width="190" x="250" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="ETdNqV8aS87p9ShmVBTq-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="Também compreender as metodologias culturais: Agile, DevOps, DataOps e saber controlar e mensurar os custos." vertex="1">
+                    <mxGeometry height="90" width="190" x="490" y="450" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
